@@ -66,4 +66,19 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+## Buying Table:
+
+![img2a 2](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/06de03c6-00b4-43c2-a739-69d118e29b1d)
+
+## Banking Table:
+
+![img2b 2](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/6321c13d-e77b-4493-bdc7-ed3b58c4d089)
+
+## Employee Table:
+
+![img2c 2](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/2f6ea8c9-fc81-4f35-ae47-10ed14c600ee)
+
+
 ### RESULT: 
+
+Thus this program has been successfully executed.
