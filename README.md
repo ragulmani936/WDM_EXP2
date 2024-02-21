@@ -43,6 +43,18 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+## Training Data Set -> Buying Table:
+
+![img2a 1](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/38ff2be6-506c-4dad-b9b4-7ac80efa883f)
+
+## Training Data Set -> Banking Table:
+
+![img2b 1](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/ce948c7f-46c1-49c9-b9f3-903379d7efc2)
+
+## Training Data Set -> Employee Table:
+
+![img2c 1](https://github.com/ragulmani936/WDM_EXP2/assets/94881918/d37e7e8f-d1d8-4e40-b21e-c2f3715286ef)
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
